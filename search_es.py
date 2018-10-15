@@ -128,7 +128,6 @@ class SearchEs:
         return searched["hits"]["hits"]
 
 
-
 if  __name__ == '__main__':
     handler = SearchEs()
     song = '能不能给我一首歌的时间'
