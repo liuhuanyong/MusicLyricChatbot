@@ -11,7 +11,7 @@ chatbot based on music region using method including es and music kb.基于14W�
 2、已知歌词查歌曲  
 3、歌曲知识问答  
 
-#　项目步骤:  
+# 项目步骤:  
 1、歌词语料库构建  
 2、歌词、歌曲、歌手知识库构建  
 3、基于知识库的问答挖掘  
