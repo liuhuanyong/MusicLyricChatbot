@@ -17,7 +17,7 @@ chatbot based on music region using method including es and music kb.基于14W�
 3、基于知识库的问答挖掘
 
 # 项目路线图
-![image](https://github.com/liuhuanyong/MusicChatbot/blob/master/img/libai.png)
+![image](https://github.com/liuhuanyong/MusicChatbot/blob/master/img/route.png)
 
 
 #
