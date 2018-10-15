@@ -21,15 +21,15 @@ chatbot based on music region using method including es and music kb.基于14W�
 
 # 项目运行方式
 1、解压data/music.json.zip，解压后文件放在data下。
-music.json中为歌曲的信息文件，包含以下几个字段：
-1)singer:歌手名
-2)album:专辑
-3)song:歌曲名称
-4)author:作词者
-5)composer:作曲者
-整个歌曲信息文件包含140068首歌曲。
-2、python insert_es.py 将歌曲数据库插入至ES数据库中
-3、python chat_main.py 启动歌词问答
+music.json中为歌曲的信息文件，包含以下几个字段：  
+1)singer:歌手名  
+2)album:专辑  
+3)song:歌曲名称  
+4)author:作词者  
+5)composer:作曲者  
+整个歌曲信息文件包含140068首歌曲  
+2、python insert_es.py 将歌曲数据库插入至ES数据库中  
+3、python chat_main.py 启动歌词问答  
 
 
 # 执行效果
